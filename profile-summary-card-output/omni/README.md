@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Taishi-Y/Taishi-Y/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
